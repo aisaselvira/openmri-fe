@@ -1,6 +1,6 @@
-import {Input} from "@/components/ui/input";
-import {Checkbox} from "@/components/ui/checkbox";
-import {RadioGroup, RadioGroupItem} from "@/components/ui/radio-group";
+import {Input} from "@/components/atoms/input";
+import {Checkbox} from "@/components/atoms/checkbox";
+import {RadioGroup, RadioGroupItem} from "@/components/atoms/radio-group";
 
 export default function FormExample() {
     return (
